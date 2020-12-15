@@ -1,4 +1,4 @@
-package com.github.captaincorgi.uam.uam;
+package com.github.captaincorgi.uam;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
